@@ -1,17 +1,17 @@
 # Investing.com Scraper
 ## Execution
 #### Development
-```bash
-MODE=dev python main_tradingview.py
+```bash=
+$ MODE=dev python main_tradingview.py
 ```
 #### Production
-```bash
-MODE=prod python main_tradingview.py
+```bash=
+$ MODE=prod python main_tradingview.py
 ```
 
 ## Environment Variables
 * variables
-    `MODE` - `dev` or `prod`
+    `MODE` - `prod` or `dev` (default)
 * dotenv files
     * production
         * `.env.local.production`
