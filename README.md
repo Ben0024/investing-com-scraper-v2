@@ -26,8 +26,7 @@ MODE=prod python main_tradingview.py
     * required variables
         * CUSTOM_STORAGE_DIR: directory to store the custom data (investing.com)
 
-### Structure
-
+## Structure
 * main.py
 * Investing.com engine
     * packages/investing/engine.py
