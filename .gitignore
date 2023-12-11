@@ -7,9 +7,6 @@ __pycache__
 /.test
 /test/storage
 
-/*.py
-!/main_tradingview.py
-!/main_tradefi.py
 
 # env
 /.env*.local
